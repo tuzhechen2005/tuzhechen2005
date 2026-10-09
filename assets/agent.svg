@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" role="img" aria-label="Local Azure Agent">
+<rect width="640" height="200" rx="16" fill="#0b1220"/>
+<rect x="1" y="1" width="638" height="198" rx="16" fill="none" stroke="#28384e"/>
+<path d="M28 34h36" stroke="#77e6c0" stroke-width="4"/>
+<text x="28" y="66" fill="#77e6c0" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">AGENTS / RETRIEVAL / EVALUATION</text>
+<text x="28" y="115" fill="#f5f8ff" font-family="Arial,sans-serif" font-size="34" font-weight="700">Local Azure Agent</text>
+
+<g fill="#142337" stroke="#77e6c0" stroke-width="2">
+<rect x="473" y="48" width="98" height="36" rx="8"/>
+<rect x="473" y="116" width="98" height="36" rx="8"/></g>
+<path d="M521 85v28m-5-6 5 6 5-6M573 65h24v70h-24" fill="none" stroke="#77e6c0" stroke-width="2"/>
+<text x="28" y="157" fill="#a5b7ce" font-family="Arial,sans-serif" font-size="18">Retrieve. Act. Cite the evidence.</text></svg>

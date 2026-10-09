@@ -1,27 +1,81 @@
-# Hi 👋, I'm JellyTuuu
-
-### Computer Science student passionate about AI, systems, and full-stack development
-
-- 🔭 I'm currently working on **Building AI-powered applications, backend systems, and practical full-stack projects that solve real-world problems.**
-
-- 🌱 I'm currently learning **Distributed systems, system design, machine learning deployment, and scalable backend development.**
-
-- 👯 I'm looking to collaborate on **AI applications, full-stack web projects, backend systems, and open-source tools.**
-
-- 🤝 I'm looking for help with **System design, large-scale backend architecture, and building production-ready AI products.**
-
-- 💬 Ask me about **Java, Python, AI projects, backend development, data structures & algorithms, and full-stack development.**
-
-- 📫 How to reach me **ztu29@wisc.edu**
-
-- ⚡ Fun fact **I enjoy turning ideas into real projects, and outside of coding I like guitar, cooking, baking, and basketball.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/JellyTuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JellyTuuu" height="30" width="40" /></a>
-<a href="https://instagram.com/Jelly Tu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jelly Tu" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/hero.gif" alt="Zhechen Tu — UW–Madison CS ’27. Clinical AI, agents, and distributed inference, with an animated network of connected nodes." width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://me.jellythebest.com"><img src="assets/website.svg" alt="Personal website" height="40"></a>
+  <a href="https://www.linkedin.com/in/jellythebest/"><img src="assets/linkedin.svg" alt="LinkedIn profile" height="40"></a>
+  <a href="mailto:ztu29@wisc.edu"><img src="assets/email.svg" alt="Email Zhechen Tu" height="40"></a>
+</p>
 
+### Hey, I'm Zhechen — you can call me Jelly.
+
+I'm a **Computer Science student at UW–Madison** building AI systems that connect research with real-world use. My interests span **clinical AI, grounded retrieval, agent engineering, and distributed inference**.
+
+Currently, I lead the technical development of a thyroid cancer AI support system with **UW–Madison Surgery**, working on clinical RAG, traceable generation, and safety evaluation. Previously, I built and evaluated tool-calling and multi-agent systems at **Microsoft Cloud & AI**.
+
+## On my desk → HeteroMesh
+
+<a href="https://github.com/tuzhechen2005/heteromesh"><img src="assets/heteromesh.svg" alt="HeteroMesh — target architecture connecting Windows, macOS, and iPhone. In development." width="100%"></a>
+
+**What if the devices you already own could work together to run a larger model?**
+
+[**HeteroMesh**](https://github.com/tuzhechen2005/heteromesh) explores heterogeneous distributed inference across **Windows, macOS, and iPhone**, pooling scattered memory and compute. The first target is fully local video generation.
+
+- **Built so far:** foundational communication, real small-model relay, and H3 Transformer partitioning with small-configuration tests.
+- **Next:** complete the video pipeline and validate it across physical devices. Full H3 generation and iPhone hardware inference are still unverified.
+- **Working with:** Python · PyTorch · Swift · cross-platform inference.
+
+[Explore the repository ↗](https://github.com/tuzhechen2005/heteromesh) · [Read the system design ↗](https://github.com/tuzhechen2005/heteromesh/blob/main/docs/spec/system-spec.md)
+
+## Selected builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tuzhechen2005/CS639-Project2-Buzzer"><img src="assets/buzzer.svg" alt="Buzzer — a real-time full-stack quiz platform" width="100%"></a>
+<p>A classroom party quiz platform: a shared host screen, mobile players, live answers, and scoring. Built as a team project.</p>
+<p><sub><b>FastAPI · Socket.IO · React · MySQL · Redis</b></sub></p>
+<a href="https://github.com/tuzhechen2005/CS639-Project2-Buzzer">View project ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/tuzhechen2005/semantic-kernel-azure-react-agent"><img src="assets/agent.svg" alt="Local Azure Agent — retrieval, tool use, and evidence-backed answers" width="100%"></a>
+<p>A local ReAct agent for Azure documentation, with allowlisted tools, bounded recovery, source citations, and auditable traces.</p>
+<p><sub><b>Semantic Kernel · Phi-3 · Python · local inference</b></sub></p>
+<a href="https://github.com/tuzhechen2005/semantic-kernel-azure-react-agent">View project ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tuzhechen2005/financial-asset-qa"><img src="assets/finance.svg" alt="Financial Asset QA — live market data and retrieval-augmented answers" width="100%"></a>
+<p>A financial Q&amp;A app that routes questions to live market data or a document retrieval pipeline, with sources and evaluation dashboards.</p>
+<p><sub><b>Next.js · FastAPI · FAISS · Tavily · yfinance</b></sub></p>
+<a href="https://github.com/tuzhechen2005/financial-asset-qa">View project ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/tuzhechen2005/terraria-naruto-mod"><img src="assets/terruto.svg" alt="Terruto — a Naruto adventure mod for Terraria" width="100%"></a>
+<p>A Naruto Part I adventure mod: story progression, boss encounters, chakra mechanics, and pixel art. Currently refining the Chunin Exams arc.</p>
+<p><sub><b>C# · tModLoader · game systems · pixel art</b></sub></p>
+<a href="https://github.com/tuzhechen2005/terraria-naruto-mod">View project ↗</a>
+</td>
+</tr>
+</table>
+
+[More research and project stories on my website ↗](https://me.jellythebest.com/projects.html)
+
+## My toolkit
+
+| Area | Technologies I work with |
+| :--- | :--- |
+| **AI & agents** | PyTorch · LangGraph · Semantic Kernel · AutoGen · RAG |
+| **Retrieval & data** | Milvus · FAISS · BM25 · MySQL · Redis |
+| **Backend & systems** | Python · FastAPI · Java · Docker · Kafka |
+| **Interfaces & creative work** | React · Next.js · TypeScript · C# · tModLoader |
+
+## Beyond the terminal
+
+Guitar, cooking, baking, and basketball. I like building things that people can actually use — and occasionally worlds they can get lost in.
+
+**Let's talk** about AI applications, agent systems, research, or an interesting idea worth building.
+
+[Website](https://me.jellythebest.com) · [LinkedIn](https://www.linkedin.com/in/jellythebest/) · [Email](mailto:ztu29@wisc.edu) · [All repositories](https://github.com/tuzhechen2005?tab=repositories)
