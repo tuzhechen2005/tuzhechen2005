@@ -54,8 +54,8 @@ Connecting **Windows, macOS, and iPhone** to pool scattered memory and compute, 
 ### 📊 GitHub activity
 
 <p align="center">
-  <a href="https://github.com/tuzhechen2005?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=tuzhechen2005&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_rank=true" alt="Zhechen's GitHub contribution statistics" width="49%"></a>
-  <a href="https://github.com/tuzhechen2005?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tuzhechen2005&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Most used languages across public repositories" width="49%"></a>
+  <a href="https://github.com/tuzhechen2005?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=tuzhechen2005&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_rank=true" alt="Zhechen's GitHub contribution statistics" height="180"></a>
+  <a href="https://github.com/tuzhechen2005?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tuzhechen2005&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Most used languages across public repositories" height="180"></a>
 </p>
 
 ### 🎸 Beyond the terminal
