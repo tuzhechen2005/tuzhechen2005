@@ -22,6 +22,8 @@ I build AI systems that connect research with real-world use — from **clinical
 
 ### 🔭 Currently building: HeteroMesh
 
+<a href="https://github.com/tuzhechen2005/heteromesh"><img src="assets/heteromesh/cluster.gif" alt="HeteroMesh architecture concept: Windows and two iPhones exchange intermediate results through a macOS coordinator. Hardware inference remains under validation." width="300" align="right"></a>
+
 [**HeteroMesh — heterogeneous distributed inference**](https://github.com/tuzhechen2005/heteromesh)
 
 Connecting **Windows, macOS, and iPhone** to pool scattered memory and compute, with fully local video generation as the first target.
