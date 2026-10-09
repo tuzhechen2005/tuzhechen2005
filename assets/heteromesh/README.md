@@ -6,4 +6,4 @@ Device glyphs use the unmodified geometry of [Lucide](https://github.com/lucide-
 
 ## Model-sharding film
 
-`model-sharding.gif` is the current profile illustration: a 12-second, 1120 × 630 concept animation showing a Transformer model split into four schematic weight shards, resident weights on heterogeneous devices, and intermediate activation relay. The four groups are illustrative, not a measured allocation. Windows CUDA and iOS compute are target paths; the film is not a recording of validated four-device inference. Hardware and model geometry are drawn specifically for this film.
+`model-sharding.gif` is the current profile illustration: a 8-second, 1120 × 630 concept animation showing a Transformer model split into four schematic weight shards, resident weights on heterogeneous devices, and intermediate activation relay. The four groups are illustrative, not a measured allocation. Windows CUDA and iOS compute are target paths; the film is not a recording of validated four-device inference. Hardware and model geometry are drawn specifically for this film.
