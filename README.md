@@ -22,11 +22,13 @@ I build AI systems that connect research with real-world use — from **clinical
 
 ### 🔭 Currently building: HeteroMesh
 
-<a href="https://github.com/tuzhechen2005/heteromesh"><img src="assets/heteromesh/cluster-refined.gif" alt="HeteroMesh architecture concept: Windows and two iPhones exchange intermediate results through a macOS coordinator. Hardware inference remains under validation." width="320" align="right"></a>
+<p align="center">
+  <a href="https://github.com/tuzhechen2005/heteromesh"><img src="assets/heteromesh/model-sharding.gif" alt="HeteroMesh concept: a large language model is partitioned across Windows, macOS, and two iPhones. Model weights stay on each device while intermediate activations are relayed. CUDA and iOS paths are targets, not validated results." width="100%"></a>
+</p>
 
 [**HeteroMesh — heterogeneous distributed inference**](https://github.com/tuzhechen2005/heteromesh)
 
-Connecting **Windows, macOS, and iPhone** to pool scattered memory and compute, with fully local video generation as the first target.
+Connecting **Windows, macOS, and iPhone** to run larger models across heterogeneous hardware: distribute model weights, keep shards resident, and relay intermediate activations. Fully local video generation is the first application target.
 
 **Python · PyTorch · Swift · cross-platform systems**
 
