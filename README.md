@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zhechen Tu</h1>
+<h1 align="center">Hi 👋, I'm Jelly(Zhechen)Tu</h1>
 <h3 align="center">Jelly · Computer Science @ UW–Madison</h3>
 
 <p align="center">
